@@ -1,6 +1,6 @@
 # Panels
 
-Due to the CERN-OHL-S "strongly recpricol" licensing, the frontpanels on the clectric.diy modules are intentionally blank to remain compliance-safe.
+Due to the CERN-OHL-S "strongly recprical" licensing, the frontpanels on the clectric.diy modules are intentionally blank to remain compliance-safe.
 
 That's boring. Let's get creative!
 
