@@ -4,9 +4,7 @@ Due to the CERN-OHL-S "strongly recpricol" licensing, the frontpanels on the cle
 
 That's boring. Let's get creative!
 
-The best resource that I have found to help us get started, is from [Synthux Academy](https://www.synthux.academy).
-
-They have produced two excellent videos that come at this from different angles.
+The best resource that I have found to help us get started, is from [Synthux Academy](https://www.synthux.academy). They have produced two excellent videos that come at this from different angles.
 
 If you're an artistic type, start [here](https://youtu.be/WyYU1LtO88Y).
 
